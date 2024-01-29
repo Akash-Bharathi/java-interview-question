@@ -13,89 +13,89 @@
 - [Brackets or Parentheses Problems](#brackets-or-parentheses-problems)
 
 # Basic Programs
-1. Check the given number is ***EVEN or ODD***. [[Solution]](java-interview-question/basic/EvenOrOdd.java)
-2. Write a Java Program to find the ***Factorial*** of given number. [[Solution]](java-interview-question/basic/Factorial.java)
-3. Find the ***Factorial*** of a number using ***Recursion***. [[Solution]](java-interview-question/basic/FactorialUsingRecursion.java)
-4. ***Swap two numbers*** without using third variable approach 1. [[Solution]](java-interview-question/basic/SwapApproach1.java)
-5. ***Swap two numbers*** without using third variable approach 2. [[Solution]](java-interview-question/basic/SwapApproach2.java)
-6. ***Swap two numbers*** without using third variable approach 3. [[Solution]](java-interview-question/basic/SwapApproach3.java)
-7. How to check the given number is ***Positive or Negative*** in Java? [[Solution]](java-interview-question/basic/PositiveOrNegative.java)
-8. Write a Java Program to find whether given number is ***Leap year or NOT***? [[Solution]](java-interview-question/basic/LeapYear.java)
-9. Write a Java Program to Print 1 To 10 Without Using Loop. [[Solution]](java-interview-question/basic/Print10WithoutLoop.java)
-10. Write a Java Program to print the ***digits of a Given Number***. [[Solution]](java-interview-question/basic/DigitsOfNumber.java)
-11. Write a Java Program to print all the ***Factors of the Given number***. [[Solution]](java-interview-question/basic/FactorsOfANumber.java)
-12. Write a Java Program to find ***sum of the digits of a given number***. [[Solution]](java-interview-question/numbers/SumOfDigits.java)
-13. Write a Java Program to ***find the smallest of 3 numbers*** (a,b,c) without using < or > symbol? [[Solution]](java-interview-question/numbers/FindTheSmallest.java)
-14. How to add two numbers without using the arithmetic operators in Java? [[Solution]](java-interview-question/numbers/AddWithoutPlus.java)
-15. Write a java program to ***Reverse a given number***. [[Solution]](java-interview-question/numbers/ReverseTheNumber.java)
+1. Check the given number is ***EVEN or ODD***. [[Solution]](basic/EvenOrOdd.java)
+2. Write a Java Program to find the ***Factorial*** of given number. [[Solution]](basic/Factorial.java)
+3. Find the ***Factorial*** of a number using ***Recursion***. [[Solution]](basic/FactorialUsingRecursion.java)
+4. ***Swap two numbers*** without using third variable approach 1. [[Solution]](basic/SwapApproach1.java)
+5. ***Swap two numbers*** without using third variable approach 2. [[Solution]](basic/SwapApproach2.java)
+6. ***Swap two numbers*** without using third variable approach 3. [[Solution]](basic/SwapApproach3.java)
+7. How to check the given number is ***Positive or Negative*** in Java? [[Solution]](basic/PositiveOrNegative.java)
+8. Write a Java Program to find whether given number is ***Leap year or NOT***? [[Solution]](basic/LeapYear.java)
+9. Write a Java Program to Print 1 To 10 Without Using Loop. [[Solution]](basic/Print10WithoutLoop.java)
+10. Write a Java Program to print the ***digits of a Given Number***. [[Solution]](basic/DigitsOfNumber.java)
+11. Write a Java Program to print all the ***Factors of the Given number***. [[Solution]](basic/FactorsOfANumber.java)
+12. Write a Java Program to find ***sum of the digits of a given number***. [[Solution]](numbers/SumOfDigits.java)
+13. Write a Java Program to ***find the smallest of 3 numbers*** (a,b,c) without using < or > symbol? [[Solution]](numbers/FindTheSmallest.java)
+14. How to add two numbers without using the arithmetic operators in Java? [[Solution]](numbers/AddWithoutPlus.java)
+15. Write a java program to ***Reverse a given number***. [[Solution]](numbers/ReverseTheNumber.java)
 
 # Numbers
-1. Write a Java Program to find GCD of two given numbers. [[Solution]](java-interview-question/numbers/GCD.java)
-2. Write a java program to ***LCM of TWO given number***. [[Solution]](java-interview-question/numbers/LCM.java)
-3. Write a java program to ***LCM of TWO given number*** using Prime Factors method. [[Solution]](java-interview-question/numbers/LCMUsingFactors.java)
-4. Check whether the ***Given Number*** is a ***Palindrome or NOT***. [[Solution]](java-interview-question/numbers/PalindromeCheck.java)
-5. Write a Java Program to print all the **Prime Factors** of the Given Number. [[Solution]](java-interview-question/numbers/PrimeFactors.java)
-6. Write a Java Program to check whether the Given Number is ***Prime Number or NOT***. [[Solution]](java-interview-question/numbers/PrimeNumber.java)
-7. Write a Java Program to print ***Prime Numbers from 1 to N***. [[Solution]](java-interview-question/numbers/PrimeNumberList.java)
-8. Write a Java Program to check whether the given number is **Armstrong Number** or NOT.  [[Solution]](java-interview-question/numbers/ArmstrongNumber.java)
-9. Write a Java Program to print **Armstrong Numbers** between 1 to 1000. [[Solution]](java-interview-question/numbers/ArmstrongNumberList.java)
-10. Write a Java Program to check whether the given number is **Perfect Number** or NOT. [[Solution]](java-interview-question/numbers/PerfectNumber.java)
-11. Write a Java Program to print **Perfect Numbers** between 1 to 1000. [[Solution]](java-interview-question/numbers/PerfectNumberList.java)
-12. Write a Java Program to check whether the given numbers are **Amicable Numbers** or NOT. [[Solution]](java-interview-question/numbers/AmicablePair.java)
-13. Write a Java Program to check whether the given number is **Ramanujam's Number** or NOT. [[Solution]](java-interview-question/numbers/RamanujamNumber.java)
-14. Write a Java Program check whether the given number is **Automorphic Number** or NOT. [[Solution]](java-interview-question/numbers/AutomorphicNumber.java)
-15. Write a Java Program to print **Automorphic Number** between 1 to 1000.  [[Solution]](java-interview-question/numbers/AutomorphicNumberList.java)
-16. Write a Java Program check whether the given number is **Smith Number** or NOT. [[Solution]](java-interview-question/numbers/SmithNumber.java)
-17. Write a Java Program to print **Smith Number** between 2 to 1000. [[Solution]](java-interview-question/numbers/SmithNumberList.java)
-18. Write a Java Program to check whether given number is **Kaprekar Number** or NOT. [[Solution]](java-interview-question/numbers/KaprekarNumber.java)
-19. Write a Java Program to print **Kaprekar Numbers** between 1 to 1000. [[Solution]](java-interview-question/numbers/KaprekarNumberList.java)
-20. Find the **Largest Divisor**. [[Solution]](java-interview-question/numbers/LargestDivisor.java)
-21. Find the **All Divisors** of a Given number **N**. [[Solution]](java-interview-question/numbers/Divisors.java)
+1. Write a Java Program to find GCD of two given numbers. [[Solution]](numbers/GCD.java)
+2. Write a java program to ***LCM of TWO given number***. [[Solution]](numbers/LCM.java)
+3. Write a java program to ***LCM of TWO given number*** using Prime Factors method. [[Solution]](numbers/LCMUsingFactors.java)
+4. Check whether the ***Given Number*** is a ***Palindrome or NOT***. [[Solution]](numbers/PalindromeCheck.java)
+5. Write a Java Program to print all the **Prime Factors** of the Given Number. [[Solution]](numbers/PrimeFactors.java)
+6. Write a Java Program to check whether the Given Number is ***Prime Number or NOT***. [[Solution]](numbers/PrimeNumber.java)
+7. Write a Java Program to print ***Prime Numbers from 1 to N***. [[Solution]](numbers/PrimeNumberList.java)
+8. Write a Java Program to check whether the given number is **Armstrong Number** or NOT.  [[Solution]](numbers/ArmstrongNumber.java)
+9. Write a Java Program to print **Armstrong Numbers** between 1 to 1000. [[Solution]](numbers/ArmstrongNumberList.java)
+10. Write a Java Program to check whether the given number is **Perfect Number** or NOT. [[Solution]](numbers/PerfectNumber.java)
+11. Write a Java Program to print **Perfect Numbers** between 1 to 1000. [[Solution]](numbers/PerfectNumberList.java)
+12. Write a Java Program to check whether the given numbers are **Amicable Numbers** or NOT. [[Solution]](numbers/AmicablePair.java)
+13. Write a Java Program to check whether the given number is **Ramanujam's Number** or NOT. [[Solution]](numbers/RamanujamNumber.java)
+14. Write a Java Program check whether the given number is **Automorphic Number** or NOT. [[Solution]](numbers/AutomorphicNumber.java)
+15. Write a Java Program to print **Automorphic Number** between 1 to 1000.  [[Solution]](numbers/AutomorphicNumberList.java)
+16. Write a Java Program check whether the given number is **Smith Number** or NOT. [[Solution]](numbers/SmithNumber.java)
+17. Write a Java Program to print **Smith Number** between 2 to 1000. [[Solution]](numbers/SmithNumberList.java)
+18. Write a Java Program to check whether given number is **Kaprekar Number** or NOT. [[Solution]](numbers/KaprekarNumber.java)
+19. Write a Java Program to print **Kaprekar Numbers** between 1 to 1000. [[Solution]](numbers/KaprekarNumberList.java)
+20. Find the **Largest Divisor**. [[Solution]](numbers/LargestDivisor.java)
+21. Find the **All Divisors** of a Given number **N**. [[Solution]](numbers/Divisors.java)
 22. How to check if two rectangles overlap with each other?
 
 # Array Based Programs
-1. Calculate the average of given array. [[Solution]](java-interview-question/array/Average.java)
-2. Find the second largest number in the given array. [[Solution]](java-interview-question/array/SecondMaximum.java)
-3. Find the second minimum number in the given array. [[Solution]](java-interview-question/array/SecondMinimum.java)
-4. Find the missing Number in the given array of 1 to N. [[Solution]](java-interview-question/array/FindMissingNo.java)
-5. Write a Java Program to find the ***Intersection of two arrays.*** [[Solution]](java-interview-question/array/IntersectionOfTwoArrays.java)
-6. Write a Java Program to find the ***Intersection of Two Sorted*** arrays. [[Solution]](java-interview-question/array/IntersectionOfSortedArrays.java)
-7. Write a Java Program to find the ***Union of Two Arrays (UnSorted Array)***. [[Solution]](java-interview-question/array/UnionOfTwoArrays.java)
-8. Write a Java Program to find the ***Union of Two Arrays (Sorted Arrays)***. [[Solution]](java-interview-question/array/UnionOfSortedArrays.java)
-9. Write a Java Program to find the ***Union of Tow Arrays using HashSet***. [[Solution]](java-interview-question/array/UnionArrayUsingHashSet.java)
-10. Write a Java Program to ***Move all Zero to End of the Array***. [[Solution]](java-interview-question/array/MoveAllZerosToEnd.java)
-11. Write a Java Program to ***Move all Zeros to Start of the Array***. [[Solution]](java-interview-question/array/MoveAllZerosToFront.java)
-12. Write a Java Program to ***Reverse the given array without using additional Array.*** [[Solution]](java-interview-question/array/ReverseArray.java)
-13. Write a program to find the ***Most Frequent Element***  in an given array. [[Solution]](java-interview-question/array/FindMostFrequent.java)
-14. Write a program to find the ***Most Frequent Element using Sorting***. [[Solution]](java-interview-question/array/FindMostFrequentUsingSorting.java)
-15. Write a program to find the ***Most Frequent Element using HashTable***. [[Solution]](java-interview-question/array/FindMostFrequentUsingHashtable.java)
-16. Write a java program to ***Rotate the Given Array*** d times. [[Solution]](java-interview-question/array/ArrayRotation.java)
-17. Find the pair of elements(X+Y) in the array whose sum is equal to given number Z. [[Solution]](java-interview-question/array/FindPairForZ.java)
+1. Calculate the average of given array. [[Solution]](array/Average.java)
+2. Find the second largest number in the given array. [[Solution]](array/SecondMaximum.java)
+3. Find the second minimum number in the given array. [[Solution]](array/SecondMinimum.java)
+4. Find the missing Number in the given array of 1 to N. [[Solution]](array/FindMissingNo.java)
+5. Write a Java Program to find the ***Intersection of two arrays.*** [[Solution]](array/IntersectionOfTwoArrays.java)
+6. Write a Java Program to find the ***Intersection of Two Sorted*** arrays. [[Solution]](array/IntersectionOfSortedArrays.java)
+7. Write a Java Program to find the ***Union of Two Arrays (UnSorted Array)***. [[Solution]](array/UnionOfTwoArrays.java)
+8. Write a Java Program to find the ***Union of Two Arrays (Sorted Arrays)***. [[Solution]](array/UnionOfSortedArrays.java)
+9. Write a Java Program to find the ***Union of Tow Arrays using HashSet***. [[Solution]](array/UnionArrayUsingHashSet.java)
+10. Write a Java Program to ***Move all Zero to End of the Array***. [[Solution]](array/MoveAllZerosToEnd.java)
+11. Write a Java Program to ***Move all Zeros to Start of the Array***. [[Solution]](array/MoveAllZerosToFront.java)
+12. Write a Java Program to ***Reverse the given array without using additional Array.*** [[Solution]](array/ReverseArray.java)
+13. Write a program to find the ***Most Frequent Element***  in an given array. [[Solution]](array/FindMostFrequent.java)
+14. Write a program to find the ***Most Frequent Element using Sorting***. [[Solution]](array/FindMostFrequentUsingSorting.java)
+15. Write a program to find the ***Most Frequent Element using HashTable***. [[Solution]](array/FindMostFrequentUsingHashtable.java)
+16. Write a java program to ***Rotate the Given Array*** d times. [[Solution]](array/ArrayRotation.java)
+17. Find the pair of elements(X+Y) in the array whose sum is equal to given number Z. [[Solution]](array/FindPairForZ.java)
 
 # String Based Programs
-1.  Write a java program to check Given String is ***Palindrome or NOT***. [[Solution]](java-interview-question/strings/Palindrome.java)
-2.  How to ***Swap two Strings*** without using third (temporary) variable? [[Solution]](java-interview-question/strings/SwapTwoStrings.java)
-3.  Write a java program to ***Reverse a String*** without using in-build function. [[Solution]](java-interview-question/strings/ReverseString.java)
-4.  Write a java program to ***Count the Number of Words*** in a given String. [[Solution]](java-interview-question/strings/CountWords.java)
-5.  Write a java program to ***Count the Number of Vowels*** in the given string. [[Solution]](java-interview-question/strings/CountVowels.java)
-6.  Check Given String is ***Rotation of Another String***. [[Solution]](java-interview-question/strings/StringRotationOfAnother.java)
-7.  Write a Java Program to check two strings are ***Anagram*** to each other or NOT. [[Solution]](java-interview-question/strings/Anagram.java)
-8.  Write a Java program to find the ***Most Repeated Character*** in the Given String. [[Solution]](java-interview-question/strings/MostRepeatedChar.java)
-9. How do you count the ***Number of Words*** in a given String using ***Split method***? [[Solution]](java-interview-question/strings/CountWords2.java)
-10. Write a Java Program to ***Print All Combinations*** of a given String. [[Solution]](java-interview-question/strings/CombinationOfString.java)
-11. Write a Java Program to ***Print All Permutations*** of a given String. [[Solution]](java-interview-question/strings/PermutationOfString.java)
-12. Write a Java Program to find ***All Subsets*** of a Given String using ***Bitwise*** approach. [[Solution]](java-interview-question/strings/AllSubsetsUsingBitwise.java)
-13. Write a Java Program to find ***All Subsets*** of a Given String using ***Recursion*** approach. [[Solution]](java-interview-question/strings/AllSubsetsUsingRecursion.java)
+1.  Write a java program to check Given String is ***Palindrome or NOT***. [[Solution]](strings/Palindrome.java)
+2.  How to ***Swap two Strings*** without using third (temporary) variable? [[Solution]](strings/SwapTwoStrings.java)
+3.  Write a java program to ***Reverse a String*** without using in-build function. [[Solution]](strings/ReverseString.java)
+4.  Write a java program to ***Count the Number of Words*** in a given String. [[Solution]](strings/CountWords.java)
+5.  Write a java program to ***Count the Number of Vowels*** in the given string. [[Solution]](strings/CountVowels.java)
+6.  Check Given String is ***Rotation of Another String***. [[Solution]](strings/StringRotationOfAnother.java)
+7.  Write a Java Program to check two strings are ***Anagram*** to each other or NOT. [[Solution]](strings/Anagram.java)
+8.  Write a Java program to find the ***Most Repeated Character*** in the Given String. [[Solution]](strings/MostRepeatedChar.java)
+9. How do you count the ***Number of Words*** in a given String using ***Split method***? [[Solution]](strings/CountWords2.java)
+10. Write a Java Program to ***Print All Combinations*** of a given String. [[Solution]](strings/CombinationOfString.java)
+11. Write a Java Program to ***Print All Permutations*** of a given String. [[Solution]](strings/PermutationOfString.java)
+12. Write a Java Program to find ***All Subsets*** of a Given String using ***Bitwise*** approach. [[Solution]](strings/AllSubsetsUsingBitwise.java)
+13. Write a Java Program to find ***All Subsets*** of a Given String using ***Recursion*** approach. [[Solution]](strings/AllSubsetsUsingRecursion.java)
 
 # Converters
-1. Convert Decimal Number to Binary Number. [[Solution]](java-interview-question/convertor/DecimalToBinary.java)
-2. Convert Binary Number to Decimal Number. [[Solution]](java-interview-question/convertor/BinaryToDecimal.java)
-3. Convert Decimal Number to Octal Number. [[Solution]](java-interview-question/convertor/DecimalToOctal.java)
-4. Convert Octal Number to Decimal Number. [[Solution]](java-interview-question/convertor/OctalToDecimal.java)
-5. Convert Decimal to Hexadecimal. [[Solution]](java-interview-question/convertor/DecimalToHexadecimal.java)
-6. Convert Hexadecimal to Decimal. [[Solution]](java-interview-question/convertor/HexaToDecimal.java)
-7. Convert Octal to Binary Number. [[Solution]](java-interview-question/convertor/OctalToBinary.java)
-8. Convert Binary Number to Octal. [[Solution]](java-interview-question/convertor/BinaryToOctal.java)
+1. Convert Decimal Number to Binary Number. [[Solution]](convertor/DecimalToBinary.java)
+2. Convert Binary Number to Decimal Number. [[Solution]](convertor/BinaryToDecimal.java)
+3. Convert Decimal Number to Octal Number. [[Solution]](convertor/DecimalToOctal.java)
+4. Convert Octal Number to Decimal Number. [[Solution]](convertor/OctalToDecimal.java)
+5. Convert Decimal to Hexadecimal. [[Solution]](convertor/DecimalToHexadecimal.java)
+6. Convert Hexadecimal to Decimal. [[Solution]](convertor/HexaToDecimal.java)
+7. Convert Octal to Binary Number. [[Solution]](convertor/OctalToBinary.java)
+8. Convert Binary Number to Octal. [[Solution]](convertor/BinaryToOctal.java)
 
 # Sorting
 1.  Bubble Sort <a href="InterviewPrograms/src/com/algorithm/sorting/BubbleSort.java" target="_blank"> [Solution] </a>
@@ -109,59 +109,59 @@
 2.  Binary Search <a href="InterviewPrograms/src/com/algorithm/search/BinarySearch.java" target="_blank"> [Solution] </a>
 
 # Matrix
-1. Write a Java Program to ***Add two Matrices.*** [[Solution]](java-interview-question/matrix/MatrixAddition.java)
-2. Write a Java Program to ***Subtract Two Matrices***. [[Solution]](java-interview-question/matrix/MatrixSubtraction.java)
-3. Write a Java Program to ***Transpose a Matrix.*** [[Solution]](java-interview-question/matrix/MatrixTranspose.java)
-4. Write a Java Program to ***Multiply Two Matrices.*** [[Solution]](java-interview-question/matrix/MatrixMultiplication.java)
-5. Write a Java Program to print the ***Matrix Spiral form***. [[Solution]](java-interview-question/matrix/MatrixInSpiralForm.java)
-6. Write a Java Program to check whether a ***Given Matrix is an Identity Matrix.*** [[Solution]](java-interview-question/matrix/IdentityMatrix.java)
-7. Check whether the Given Matrix is ***Sparse Matrix or NOT*** [[Solution]](java-interview-question/matrix/SparseMatrix.java)
-8. Display the ***Lower Triangular Matrix*** [[Solution]](java-interview-question/matrix/LowerTriangularMatrix.java)
-9. Display the ***Upper Triangular Matrix*** [[Solution]](java-interview-question/matrix/UpperTriangularMatrix.java)
-10. Find sum of each row and each column of the Matrix. [[Solution]](java-interview-question/matrix/RowSumColumnSum.java)
+1. Write a Java Program to ***Add two Matrices.*** [[Solution]](matrix/MatrixAddition.java)
+2. Write a Java Program to ***Subtract Two Matrices***. [[Solution]](matrix/MatrixSubtraction.java)
+3. Write a Java Program to ***Transpose a Matrix.*** [[Solution]](matrix/MatrixTranspose.java)
+4. Write a Java Program to ***Multiply Two Matrices.*** [[Solution]](matrix/MatrixMultiplication.java)
+5. Write a Java Program to print the ***Matrix Spiral form***. [[Solution]](matrix/MatrixInSpiralForm.java)
+6. Write a Java Program to check whether a ***Given Matrix is an Identity Matrix.*** [[Solution]](matrix/IdentityMatrix.java)
+7. Check whether the Given Matrix is ***Sparse Matrix or NOT*** [[Solution]](matrix/SparseMatrix.java)
+8. Display the ***Lower Triangular Matrix*** [[Solution]](matrix/LowerTriangularMatrix.java)
+9. Display the ***Upper Triangular Matrix*** [[Solution]](matrix/UpperTriangularMatrix.java)
+10. Find sum of each row and each column of the Matrix. [[Solution]](matrix/RowSumColumnSum.java)
 
 # Print the Series
-1. Write the Java Program to print the following series ***EVEN number Series*** [[Solution]](java-interview-question/series/EvenNumberSeries.java)
+1. Write the Java Program to print the following series ***EVEN number Series*** [[Solution]](series/EvenNumberSeries.java)
 ```
 2 4 6 8 10 12 14 16 .....
 ```
-2. Write the Java Program to print the following series ***ODD number Series*** [[Solution]](java-interview-question/series/OddNumberSeries.java)
+2. Write the Java Program to print the following series ***ODD number Series*** [[Solution]](series/OddNumberSeries.java)
 ```
 1 3 5 7 9 11 13 ....
 ```
-3. Write the Java Program to print the following series ***Pattern Series*** [[Solution]](java-interview-question/series/PatternSeries.java)
+3. Write the Java Program to print the following series ***Pattern Series*** [[Solution]](series/PatternSeries.java)
 ```
 3, 33, 333, 3333, 33333, 333333 ....
 ```
-4. Write the Java Program to print the following series [[Solution]](java-interview-question/series/AlternateTenSeries.java)
+4. Write the Java Program to print the following series [[Solution]](series/AlternateTenSeries.java)
 ```
 10 1 9 2 8 3 7 4 6 5 5 6 4 7 3 8 2 9 1 10
 ```
-5. Write the Java Program to print the following series ***QuadraticSequence*** [[Solution]](java-interview-question/series/QuadraticSequence.java)
+5. Write the Java Program to print the following series ***QuadraticSequence*** [[Solution]](series/QuadraticSequence.java)
 ```
 1 2 4 7 11 16 22 29 .....
 ```
-6. Write the Java Program to print the following series [[Solution]](java-interview-question/series/Series1.java)
+6. Write the Java Program to print the following series [[Solution]](series/Series1.java)
 ```
 2 9 28 65 126 217 344
 ```
-7. Write the Java Program to print the following series ***Geometric Progression*** [[Solution]](java-interview-question/series/GeometricProgression.java)
+7. Write the Java Program to print the following series ***Geometric Progression*** [[Solution]](series/GeometricProgression.java)
 ```
 1 2 4 8 16 32 64 128 256 512 1024 ......
 ```
-8. Write the Java Program to print the following series ***Arithmetic Progression*** [[Solution]](java-interview-question/series/ArithmeticProgression.java)
+8. Write the Java Program to print the following series ***Arithmetic Progression*** [[Solution]](series/ArithmeticProgression.java)
 ```
 0 5 10 15 20 25 30 35 ....
 ```
-9. Write the Java Program to print the following series ***Fibonacci Series*** [[Solution]](java-interview-question/series/FibonacciSeries.java)
+9. Write the Java Program to print the following series ***Fibonacci Series*** [[Solution]](series/FibonacciSeries.java)
 ```
 1 1 2 3 5 8 13 21 34 55 89 .....
 ```
-10. Write the Java Program to print the following series ***Prime Number Series*** [[Solution]](java-interview-question/series/PrimeNumberSeries.java)
+10. Write the Java Program to print the following series ***Prime Number Series*** [[Solution]](series/PrimeNumberSeries.java)
 ```
 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 .....
 ```
-11. Write the Java Program to print the following series ***Triangular Number Series*** [[Solution]](java-interview-question/series/TriangularSeries.java)
+11. Write the Java Program to print the following series ***Triangular Number Series*** [[Solution]](series/TriangularSeries.java)
 ```
 1 3 6 10 15 21 28 36 45 55 .....
 ```
@@ -171,7 +171,7 @@
 ```
 
 # Pattern Questions
-1. Write a Program to print Floyd's triangle? [[Solution]](java-interview-question/patterns/FloydsTriangle.java)
+1. Write a Program to print Floyd's triangle? [[Solution]](patterns/FloydsTriangle.java)
 ```
 	1 
 	2 3 
@@ -181,7 +181,7 @@
 	16 17 18 19 20 21 
 ```
 2. Write a Program to print Pascal's triangle?
-3. Write a Java Program to print the following Pattern [[Solution]](java-interview-question/patterns/Pattern1.java)
+3. Write a Java Program to print the following Pattern [[Solution]](patterns/Pattern1.java)
 ```
           1
           1 2
@@ -190,7 +190,7 @@
           1 2 3 4 5
           1 2 3 4 5 6
 ```
-4. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern2.java)
+4. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern2.java)
 ```
           1
           2 2
@@ -199,7 +199,7 @@
           5 5 5 5 5
           6 6 6 6 6 6
 ```
-4. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern3.java)
+4. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern3.java)
 ```
           6 5 4 3 2 1
           6 5 4 3 2 
@@ -208,7 +208,7 @@
           6 5
           6
 ```
-5. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern4.java)
+5. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern4.java)
 ```
           1 2 3 4 5 6
           1 2 3 4 5
@@ -217,7 +217,7 @@
           1 2
           1
 ```
-6. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern5.java)
+6. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern5.java)
 ```
           1
           1 2 1
@@ -226,7 +226,7 @@
           1 2 3 4 5 4 3 2 1
           1 2 3 4 5 6 5 4 3 2 1 
 ```
-7. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern6.java)
+7. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern6.java)
 ```
           1 2 3 4 5 6
           1 2 3 4 5
@@ -240,7 +240,7 @@
           1 2 3 4 5
           1 2 3 4 5 6
 ```
-8. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern7.java)
+8. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern7.java)
 ```
 	1 2 3 4 5 6
 	  2 3 4 5 6
@@ -254,7 +254,7 @@
 	  2 3 4 5 6
 	1 2 3 4 5 6
 ```
-9. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern8.java)
+9. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern8.java)
 ```
 	1
 	2 1
@@ -263,7 +263,7 @@
 	5 4 3 2 1 
 	6 5 4 3 2 1
 ```
-10. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern9.java)
+10. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern9.java)
 ```
 	1
 	1 0
@@ -281,7 +281,7 @@
 	1 5 5 5 5 5
 	6 6 6 6 6 6
 ```
-12. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern12.java)
+12. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern12.java)
 ```
 9 9 9 9 9 9 9 9 9
   7 7 7 7 7 7 7
@@ -289,7 +289,7 @@
       3 3 3
         1
 ```
-13. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern10.java)
+13. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern10.java)
 ```
 5 5 5 5 5 5 5 5 5
   4 4 4 4 4 4 4
@@ -297,7 +297,7 @@
       2 2 2
         1
 ```
-14. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern11.java)
+14. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern11.java)
 ```
 1 1 1 1 1
 2 2 2 2 2
@@ -305,7 +305,7 @@
 4 4 4 4 4
 5 5 5 5 5
 ```
-15. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern13.java)
+15. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern13.java)
 ```
         A
       A B A
@@ -313,7 +313,7 @@
   A B C D C B A
 A B C D E D C B A
 ```
-16. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern14.java)
+16. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern14.java)
 ```
         1
       1 2 1
@@ -321,7 +321,7 @@ A B C D E D C B A
   1 2 3 4 3 2 1
 1 2 3 4 5 4 3 2 1
 ```
-17. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern15.java)
+17. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern15.java)
 ```
         A 
       B A B
@@ -329,7 +329,7 @@ A B C D E D C B A
   D C B A B C D
 E D C B A B C D E
 ```
-18. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern16.java)
+18. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern16.java)
 ```
         0 
       1 0 1
@@ -337,7 +337,7 @@ E D C B A B C D E
   3 2 1 0 1 2 3
 4 3 2 1 0 1 2 3 4
 ```
-19. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern17.java)
+19. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern17.java)
 ```
         A
       C B A
@@ -345,7 +345,7 @@ E D C B A B C D E
   G F E D C B A
 I H G F E D C B A
 ```
-20. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern18.java)
+20. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern18.java)
 ```
         A
       A B C
@@ -353,7 +353,7 @@ I H G F E D C B A
   A B C D E F G
 A B C D E F G H I
 ```
-21. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern19.java)
+21. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern19.java)
 ```
         1
       3 2 1
@@ -361,7 +361,7 @@ A B C D E F G H I
   7 6 5 4 3 2 1
 9 8 7 6 5 4 3 2 1
 ```
-22. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern20.java)
+22. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern20.java)
 ```
         1
       1 2 3
@@ -369,7 +369,7 @@ A B C D E F G H I
   1 2 3 4 5 6 7
 1 2 3 4 5 6 7 8 9
 ```
-23. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern21.java)
+23. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern21.java)
 ```
         A
       C C C
@@ -377,7 +377,7 @@ A B C D E F G H I
   G G G G G G G
 I I I I I I I I I
 ```
-24. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern22.java)
+24. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern22.java)
 ```
         A
       B B B
@@ -385,7 +385,7 @@ I I I I I I I I I
   D D D D D D D
 E E E E E E E E E
 ```
-25. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern23.java)
+25. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern23.java)
 ```
         1
       3 3 3
@@ -393,7 +393,7 @@ E E E E E E E E E
   7 7 7 7 7 7 7
 9 9 9 9 9 9 9 9 9
 ```
-26. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern24.java)
+26. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern24.java)
 ```
         1
       2 2 2
@@ -401,7 +401,7 @@ E E E E E E E E E
   4 4 4 4 4 4 4
 5 5 5 5 5 5 5 5 5
 ```
-27. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern25.java)
+27. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern25.java)
 ```
         *
       * * *
@@ -409,7 +409,7 @@ E E E E E E E E E
   * * * * * * *
 * * * * * * * * *
 ```
-28. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern26.java)
+28. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern26.java)
 ```
 A B C D E
   A B C D
@@ -417,7 +417,7 @@ A B C D E
       A B
         A
 ```
-29. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern27.java)
+29. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern27.java)
 ```
 E E E E E
   D D D D
@@ -425,7 +425,7 @@ E E E E E
       B B
         A
 ```
-30. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern28.java)
+30. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern28.java)
 ```
 1 2 3 4 5
   1 2 3 4
@@ -433,7 +433,7 @@ E E E E E
       1 2
         1
 ```
-31. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern29.java)
+31. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern29.java)
 ```
 5 5 5 5 5
   4 4 4 4
@@ -441,7 +441,7 @@ E E E E E
       2 2
         1
 ```
-32. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern30.java)
+32. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern30.java)
 ```
 * * * * *
   * * * *
@@ -449,7 +449,7 @@ E E E E E
       * *
         *
 ```
-33. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern31.java)
+33. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern31.java)
 ```
         A
       A B
@@ -457,7 +457,7 @@ E E E E E
   A B C D
 A B C D E
 ```
-34. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern32.java)
+34. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern32.java)
 ```
         A
       B B
@@ -465,7 +465,7 @@ A B C D E
   D D D D
 E E E E E
 ```
-35. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern33.java)
+35. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern33.java)
 ```
         1
       1 2
@@ -473,7 +473,7 @@ E E E E E
   1 2 3 4
 1 2 3 4 5
 ```	
-36. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern34.java)
+36. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern34.java)
 ```
         1
       2 2
@@ -481,7 +481,7 @@ E E E E E
   4 4 4 4
 5 5 5 5 5
 ```
-37. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern35.java)
+37. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern35.java)
 ```
         *
       * *
@@ -489,7 +489,7 @@ E E E E E
   * * * *
 * * * * *
 ```
-38. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern36.java)
+38. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern36.java)
 ```
 E D C B A
 E D C B
@@ -497,7 +497,7 @@ E D C
 E D
 E
 ```
-39. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern37.java)
+39. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern37.java)
 ```
 E E E E E
 D D D D
@@ -505,7 +505,7 @@ C C C
 B B
 A
 ```
-40. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern38.java)
+40. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern38.java)
 ```
 5 4 3 2 1
 5 4 3 2
@@ -513,7 +513,7 @@ A
 5 4
 5
 ```
-41. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern39.java)
+41. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern39.java)
 ```
 5 5 5 5 5
 4 4 4 4
@@ -521,7 +521,7 @@ A
 2 2
 1
 ```
-42. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern40.java)
+42. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern40.java)
 ```
 A B C D E
 A B C D
@@ -529,7 +529,7 @@ A B C
 A B
 A
 ```
-43. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern41.java)
+43. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern41.java)
 ```
 A A A A A
 B B B B
@@ -537,7 +537,7 @@ C C C
 D D
 E
 ```
-44. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern42.java)
+44. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern42.java)
 ```
 1 1 1 1 1
 2 2 2 2
@@ -545,7 +545,7 @@ E
 4 4
 5
 ```
-45. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern43.java)
+45. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern43.java)
 ```
 * * * * *
 * * * *
@@ -553,7 +553,7 @@ E
 * *
 *
 ```
-46. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern44.java)
+46. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern44.java)
 ```
 A
 A B
@@ -561,7 +561,7 @@ A B C
 A B C D
 A B C D E
 ```
-47. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern45.java)
+47. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern45.java)
 ```
 *
 * *
@@ -569,7 +569,7 @@ A B C D E
 * * * *
 * * * * *
 ```
-48. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern53.java)
+48. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern53.java)
 ```
 A
 B B
@@ -577,7 +577,7 @@ C C C
 D D D D
 E E E E E
 ```
-49. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern54.java)
+49. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern54.java)
 ```
 1
 1 2
@@ -585,7 +585,7 @@ E E E E E
 1 2 3 4
 1 2 3 4 5
 ```
-50. Write a Java Program to print the following Pattern. [[Solution]](java-interview-question/patterns/Pattern55.java)
+50. Write a Java Program to print the following Pattern. [[Solution]](patterns/Pattern55.java)
 ```
 1
 2 2
@@ -594,14 +594,14 @@ E E E E E
 5 5 5 5 5
 ```
 # Brackets or Parentheses Problems
-1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT? [[Solution]](java-interview-question/parentheses/BalancedParentheses.java)
+1. Write a Java Program to find out whether the given string is **Balanced Parentheses** or NOT? [[Solution]](parentheses/BalancedParentheses.java)
 ```
 	()() 	- VALID
 	(()) 	- VALID
 	())( 	- INVALID
 	((	- INVALID
 ```
-2. Generate Balanced Parentheses of N pairs. [[Solution]](java-interview-question/parentheses/GenerateBalancedParentheses.java)
+2. Generate Balanced Parentheses of N pairs. [[Solution]](parentheses/GenerateBalancedParentheses.java)
 ```
 	N = 2		N= 3
 	()()		()()()
